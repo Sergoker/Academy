@@ -86,7 +86,7 @@
 
 ### Video
 
-- [Людвиг Быстроновский Лекции, из artlebedev](http://ludwigbistronovsky.ru/lectures/)
+- [Людвиг Быстроновский Лекции, из artlebede](http://ludwigbistronovsky.ru/lectures/)
 - [Людвиг Быстроновский, из artlebedev, uideo.ru](https://uideo.ru/authors/165)
 
 ### Articles
